@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "蓝牙分包写入",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
